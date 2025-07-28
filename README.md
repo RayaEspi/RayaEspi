@@ -18,3 +18,8 @@ Welcome! I’m Raya, a passionate software engineer focusing on website developm
 - 🧡 Hobbies: Reading, Cooking, Running 🏃‍♀️
 - 💬 Feel free to reach out if you have any questions!
 - 📫 [rayaserahill@gmail.com](mailto:rayaserahill@gmail.com)
+
+## 💕 My gist
+<a href="https://gist.github.com/RayaEspi/b8a799a2097425189f9c2a7d802b5828">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b8a799a2097425189f9c2a7d802b5828&theme=omni&show_owner=false" />
+</a>
