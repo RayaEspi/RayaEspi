@@ -23,3 +23,6 @@ Welcome! I’m Raya, a passionate software engineer focusing on website developm
 <a href="https://gist.github.com/RayaEspi/b8a799a2097425189f9c2a7d802b5828">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b8a799a2097425189f9c2a7d802b5828&theme=omni&show_owner=false" />
 </a>
+<a href="https://gist.github.com/RayaEspi/c189a49d7aebbaf2481b7c00f12d12d7">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=c189a49d7aebbaf2481b7c00f12d12d7&theme=omni&show_owner=false" />
+</a>
